@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Resources/bloc.png</file>
+        <file>Resources/confirmar.png</file>
+        <file>Resources/mas.png</file>
+        <file>Examen_en_US.qm</file>
+        <file>Resources/informacion.png</file>
+    </qresource>
+</RCC>
